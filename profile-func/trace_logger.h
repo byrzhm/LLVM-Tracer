@@ -8,6 +8,7 @@
 #include <zlib.h>
 #include <pthread.h>
 #include <map>
+#include <string>
 
 #define RESULT_LINE 19134
 #define FORWARD_LINE 24601
